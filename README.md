@@ -16,3 +16,4 @@ Hi, I'm Prashant— A Senior Software Engineer at Newgen Software Technologies L
 ## Get in touch
  I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
 - Twitter: https://twitter.com/pranshu1215
+- Linkedin: https://www.linkedin.com/in/prashant-awasthi/
